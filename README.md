@@ -1,5 +1,8 @@
 Calculator.js: a node.js Demonstration Project
 ==============================================
+
+[![Build Status](https://dev.azure.com/unelakurthi1646/Sample-Project/_apis/build/status/upendar0215.calculator?branchName=master)](https://dev.azure.com/unelakurthi1646/Sample-Project/_build/latest?definitionId=1&branchName=master)
+
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
